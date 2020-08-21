@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 3",
-    "currentPage": "peoples-assembly-supporters.html",
+    "currentPage": "benchmarks-case-studies.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4811,7 +4811,7 @@
               "color": "#767676"
             },
             "H1": {
-              "color": "#46900a",
+              "color": "#b48250",
               "text-align": "left"
             }
           },
@@ -5381,7 +5381,7 @@
               "color": "#767676"
             },
             "H1": {
-              "color": "#46900a",
+              "color": "#b48250",
               "text-align": "left"
             }
           },
@@ -5885,7 +5885,7 @@
               "color": "#767676"
             },
             "H1": {
-              "color": "#46900a",
+              "color": "#b48250",
               "text-align": "left"
             }
           },
