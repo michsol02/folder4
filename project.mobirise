@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 3",
-    "currentPage": "peoples-assembly-consensus.html",
+    "currentPage": "benchmarks-about.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4186,7 +4186,7 @@
               "color": "#767676"
             },
             "H1": {
-              "color": "#ff3366",
+              "color": "#b48250",
               "text-align": "left"
             }
           },
